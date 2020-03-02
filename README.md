@@ -8,3 +8,4 @@ Deploy _**westarm**_ to desktop with
 5. Touchbar Support
 6. Alfred Support
 7. Multi window support
+8. Keyboard shortcuts
